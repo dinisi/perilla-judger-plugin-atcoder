@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#501A36",
+        "titleBar.activeBackground": "#70244B",
+        "titleBar.activeForeground": "#FEFCFD"
+    },
+    "tslint.autoFixOnSave": true,
+    "eslint.autoFixOnSave": true
+}
