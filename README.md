@@ -1,6 +1,7 @@
 # perilla-judger-plugin-atcoder
-Judge plugin for AtCoder
 [![](https://img.shields.io/badge/project-Perilla-8e44ad.svg?style=flat-square)](https://github.com/ZhangZisu/perilla)
+
+Judge plugin for AtCoder
 
 Sample `config.json`
 ```json
